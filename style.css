@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIG2.t8aRLGH_ospZAetelDKW?pid=ImgGn");
+    background-size: cover;
+}
+.velocidad
+{
+ font-size: 25px;   
+ float: left;
+}
+.volumen
+{
+    font-size: 25px;   
+    float: right;
+}
+img
+{
+width:100px;
+border-radius: 50px;
+}
+#seed,#round
+{
+    width: 100px;
+    font-size: 18px;
+}
+button
+{
+width: 100px;
+border-radius: 20px;
+padding: 10px;
+}
+canvas
+{
+border: 5px ridge darkcyan;
+
+}
